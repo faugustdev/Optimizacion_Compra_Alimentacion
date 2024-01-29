@@ -1,0 +1,1193 @@
+{
+"mercado":[
+ {
+  "Producto": "Fuet extra Nuestra Alacena bolsa 2 x 170 g",
+  "Precio": "3,59 €",
+  "Marca": "Nuestra Alacena",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Chorizo extra dulce Nuestra Alacena bolsa 270 g",
+  "Precio": "2,40 €",
+  "Marca": "Nuestra Alacena",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Chorizo extra Nuestra Alacena bandeja 2 x 100 g",
+  "Precio": "1,46 €",
+  "Marca": "Nuestra Alacena",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Salchichón extra Nuestra Alacena bandeja 2 x 100 g",
+  "Precio": "1,89 €",
+  "Marca": "Nuestra Alacena",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Chorizo extra picante Nuestra Alacena bolsa 270 g",
+  "Precio": "2,40 €",
+  "Marca": "Nuestra Alacena",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Lomo embuchado Nuestra Alacena bandeja 2 x 70 g",
+  "Precio": "2,69 €",
+  "Marca": "Nuestra Alacena",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Espetec extra Casa Tarradellas bolsa 180 g",
+  "Precio": "2,49 €",
+  "Marca": "Casa Tarradellas",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Salami extra Nuestra Alacena bandeja 200 g",
+  "Precio": "1,75 €",
+  "Marca": "Nuestra Alacena",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Espetec extra Nuestra Alacena bolsa 170 g",
+  "Precio": "2,19 €",
+  "Marca": "Nuestra Alacena",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Queso especial pasta en polvo Dia Láctea bolsa 150 g",
+  "Precio": "1,35 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso mezcla 4 quesos rallado Dia Láctea bolsa 200 g",
+  "Precio": "1,95 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso mozzarella rallado Dia Láctea bolsa 200 g",
+  "Precio": "1,65 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso semicurado El cencerro 300 g",
+  "Precio": "3,19 €",
+  "Marca": "El cencerro",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso curado El cencerro 300 g",
+  "Precio": "3,59 €",
+  "Marca": "El cencerro",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso especial gratinar rallado Dia Láctea bolsa 200 g",
+  "Precio": "0,97 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso curado cortado El cencerro 250 g",
+  "Precio": "3,84 €",
+  "Marca": "El cencerro",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Dados de queso especial ensalada Dia Láctea bolsa 100 g",
+  "Precio": "0,95 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso tierno El cencerro 300 g",
+  "Precio": "2,85 €",
+  "Marca": "El cencerro",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso fresco natural Dia Láctea tarrina 2 x 250 g",
+  "Precio": "1,89 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso mozzarella fresca Dia Láctea bolsa 125 g",
+  "Precio": "0,85 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso fresco natural Dia Láctea tarrina 4 x 62.5 g",
+  "Precio": "1,09 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso burrata Selección Mundial tarrina 150 g",
+  "Precio": "2,39 €",
+  "Marca": "Selección Mundial",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso fresco de vaca El cencerro tarrina 250 g",
+  "Precio": "1,75 €",
+  "Marca": "El cencerro",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso fresco natural Burgo de Arias tarrina 3 x 72 g",
+  "Precio": "2,88 €",
+  "Marca": "Burgo",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso fresco 0% m.g Dia Láctea tarrina 4 x 62.5 g",
+  "Precio": "1,09 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso fresco de cabra El cencerro tarrina 250 g",
+  "Precio": "2,89 €",
+  "Marca": "El cencerro",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso mozzarella Galbani bolsa 100 g",
+  "Precio": "1,39 €",
+  "Marca": "Galbani",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso roquefort Selección Mundial bandeja 100 g",
+  "Precio": "1,85 €",
+  "Marca": "Selección Mundial",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso azul El cencerro bandeja 150 g",
+  "Precio": "1,85 €",
+  "Marca": "El cencerro",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso gorgonzola D.O.P. Selección Mundial bandeja 200 g",
+  "Precio": "2,59 €",
+  "Marca": "Selección Mundial",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso de untar original Cremette tarrina 200 g",
+  "Precio": "1,72 €",
+  "Marca": "Cremette",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso fundido en porciones Dia Láctea caja 375 g",
+  "Precio": "2,15 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Crema con queso camembert Dia Láctea tarrina 125 g",
+  "Precio": "1,35 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso de untar original Philadelphia tarrina 250 g",
+  "Precio": "2,68 €",
+  "Marca": "Philadelphia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso fundido light en porciones Dia Láctea caja 250 g",
+  "Precio": "1,55 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Crema con queso semicurado Dia Láctea tarrina 125 g",
+  "Precio": "1,35 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Crema con queso de cabra Dia Láctea tarrina 125 g",
+  "Precio": "1,35 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso de untar light Cremette tarrina 200 g",
+  "Precio": "1,72 €",
+  "Marca": "Cremette",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Mini queso tierno Babybel malla 120 g",
+  "Precio": "2,74 €",
+  "Marca": "Babybel",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso brie Selección Mundial 200 g",
+  "Precio": "1,60 €",
+  "Marca": "Selección Mundial",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso provolone con orégano Selección Mundial bolsa 150 g",
+  "Precio": "1,99 €",
+  "Marca": "Selección Mundial",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso camembert Selección Mundial tarrina 250 g",
+  "Precio": "1,99 €",
+  "Marca": "Selección Mundial",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Rulo de queso de vaca Dia Lactea 140 g",
+  "Precio": "1,49 €",
+  "Marca": "Dia",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso gouda Selección Mundial bandeja 400 g",
+  "Precio": "2,99 €",
+  "Marca": "Selección Mundial",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso francés de vaca Caprice des Dieux tarrina 125 g",
+  "Precio": "2,79 €",
+  "Marca": "Caprice des Dieux",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso vegano cheddar Flax&kale bandeja 130 g",
+  "Precio": "1,99 €",
+  "Marca": "Flax&kale",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso emmental Selección Mundial bolsa 250 g",
+  "Precio": "2,19 €",
+  "Marca": "Selección Mundial",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Queso vegano mozzarella Flax&kale bolsa 130 g",
+  "Precio": "1,99 €",
+  "Marca": "Flax&kale",
+  "Categoria": "Queso"
+ },
+ {
+  "Producto": "Salchichas cocidas frankfurt Funky Frank bolsa 4 x 160 g",
+  "Precio": "1,49 €",
+  "Marca": "Funky Frank",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Salchichas cocidas frankfurt con queso Funky Frank bolsa 4 x 140 g",
+  "Precio": "1,49 €",
+  "Marca": "Funky Frank",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Salchichas cocidas súper Funky Frank bolsa 350 g",
+  "Precio": "1,99 €",
+  "Marca": "Funky Frank",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Salchichas cocidas Viena con queso Funky Frank bolsa 3 x 200 g",
+  "Precio": "2,19 €",
+  "Marca": "Viena",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Salchichas cocidas Viena de pollo Funky Frank bolsa 3 x 200 g",
+  "Precio": "2,15 €",
+  "Marca": "Viena",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Salchichas cocidas frankfurt Campofrío bolsa 4 x 140 g",
+  "Precio": "2,25 €",
+  "Marca": "Campofrío",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Salchichas hot dog Elpozo King bolsa 275 g",
+  "Precio": "1,50 €",
+  "Marca": "Elpozo",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Salchichas cocidas wieners Oscar mayer bolsa 200 g",
+  "Precio": "1,36 €",
+  "Marca": "Oscar",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Salchichas cocidas wieners con queso Oscar mayer bolsa 200 g",
+  "Precio": "1,39 €",
+  "Marca": "Oscar",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Ternera en tacos añojo Selección de Dia bandeja 450 g",
+  "Precio": "5,53 €",
+  "Marca": "Dia",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Escalopines de ternera Selección de Dia bandeja 350 g",
+  "Precio": "5,25 €",
+  "Marca": "Dia",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Filete 1ºa de ternera Selección de Dia bandeja 400 g",
+  "Precio": "6,00 €",
+  "Marca": "Dia",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Entrecot de lomo bajo de vacuno Selección de Dia bandeja 420 g",
+  "Precio": "8,40 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Escalopín de vacuno extratierno Elpozo Extratiernos bandeja 600 g",
+  "Precio": "8,99 €",
+  "Marca": "Elpozo",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Carpaccio de vacuno marinado con queso Selección de Dia bandeja 110 g",
+  "Precio": "3,89 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Medallón de cadera vacuno Selección de Dia bandeja 235 g",
+  "Precio": "3,99 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Filete de cinta de lomo tierno Selección de Dia bandeja 300 g",
+  "Precio": "2,69 €",
+  "Marca": "Dia",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Solomillo de cerdo Selección de Dia bolsa 450 g",
+  "Precio": "4,05 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Estofado de cerdo Selección de Dia bandeja 500 g",
+  "Precio": "3,20 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Longaniza sin tripa Selección de Dia bandeja 325 g",
+  "Precio": "1,99 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Escalopín de lomo de cerdo marinado extratierno Elpozo Extratiernos bandeja 600 g",
+  "Precio": "4,99 €",
+  "Marca": "Elpozo ",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Arreglo para caldo Selección de Dia bandeja 1 Kg",
+  "Precio": "5,29 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Chorizo oreado Selección de Dia bandeja 300 g",
+  "Precio": "2,29 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Albóndigas de cerdo Selección de Dia bandeja 400 g",
+  "Precio": "2,49 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Chuleta de aguja de cerdo Selección de Dia bandeja 600 g",
+  "Precio": "4,13 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Filetes de pechuga de pollo Selección de Dia bandeja 450 g",
+  "Precio": "3,60 €",
+  "Marca": "Dia",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Jamoncitos de pollo familiar Selección de Dia bandeja 800 g",
+  "Precio": "3,59 €",
+  "Marca": "Dia",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Longaniza de pollo Selección de Dia bandeja 400 g",
+  "Precio": "2,89 €",
+  "Marca": "Dia",
+  "Categoria": "Embutidos"
+ },
+ {
+  "Producto": "Alas partidas de pollo Selección de Dia bandeja 600 g",
+  "Precio": "3,29 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Pechuga de pollo entera formato familiar Selección de Dia bandeja 1 Kg",
+  "Precio": "6,99 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Cuartos traseros de pollo Selección de Dia bandeja 650 g",
+  "Precio": "2,40 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Pechugas enteras de pollo Selección de Dia bandeja 500 g",
+  "Precio": "2,95 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Pollo entero limpio Selección de Dia bandeja 1.9 Kg",
+  "Precio": "6,37 €",
+  "Marca": "Dia",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Filetes de pollo empanados bandeja 400 g",
+  "Precio": "2,99 €",
+  "Marca": "Otros",
+  "Categoria": "Carnes"
+ },
+ {
+  "Producto": "Arroz extra Arrozona bolsa 1 Kg",
+  "Precio": "1,30 €",
+  "Marca": "Arrozona",
+  "Categoria": "Arroz"
+ },
+ {
+  "Producto": "Arroz largo de primera categoría Arrozona bolsa 1 Kg",
+  "Precio": "1,30 €",
+  "Marca": "Arrozona",
+  "Categoria": "Arroz"
+ },
+ {
+  "Producto": "Arroz basmati Selección Mundial paquete 1 Kg",
+  "Precio": "2,60 €",
+  "Marca": "Selección Mundial",
+  "Categoria": "Arroz"
+ },
+ {
+  "Producto": "Arroz bomba Arrozona paquete 1 Kg",
+  "Precio": "4,90 €",
+  "Marca": "Arrozona",
+  "Categoria": "Arroz"
+ },
+ {
+  "Producto": "Arroz redondo Sos paquete 1 Kg",
+  "Precio": "1,80 €",
+  "Marca": "Sos",
+  "Categoria": "Arroz"
+ },
+ {
+  "Producto": "Arroz redondo Al Punto vaso 2 x 125 g",
+  "Precio": "1,15 €",
+  "Marca": "Al",
+  "Categoria": "Arroz"
+ },
+ {
+  "Producto": "Arroz basmati Brillante vaso 2 x 125 g",
+  "Precio": "1,34 €",
+  "Marca": "Brillante",
+  "Categoria": "Arroz"
+ },
+ {
+  "Producto": "Arroz redondo Brillante paquete 1 Kg",
+  "Precio": "2,68 €",
+  "Marca": "Brillante",
+  "Categoria": "Arroz"
+ },
+ {
+  "Producto": "Arroz vaporizado Arrozona bolsa 1 Kg",
+  "Precio": "1,54 €",
+  "Marca": "Arrozona",
+  "Categoria": "Arroz"
+ },
+ {
+  "Producto": "Macarrón Al diante bolsa 1 Kg",
+  "Precio": "1,35 €",
+  "Marca": "Al",
+  "Categoria": "Pastas"
+ },
+ {
+  "Producto": "Espagueti Al diante bolsa 1 Kg",
+  "Precio": "1,35 €",
+  "Marca": "Al",
+  "Categoria": "Pastas"
+ },
+ {
+  "Producto": "Espirales tricolor Al diante bolsa 500 g",
+  "Precio": "0,95 €",
+  "Marca": "Al",
+  "Categoria": "Pastas"
+ },
+ {
+  "Producto": "Fideo cabellín Al diante bolsa 500 g",
+  "Precio": "0,66 €",
+  "Marca": "Al",
+  "Categoria": "Pastas"
+ },
+ {
+  "Producto": "Espaguetis nº 3 Gallo bolsa 450 g + 50%",
+  "Precio": "1,33 €",
+  "Marca": "Gallo",
+  "Categoria": "Pastas"
+ },
+ {
+  "Producto": "Pluma nº 6 Gallo bolsa 450 g",
+  "Precio": "1,33 €",
+  "Marca": "Gallo",
+  "Categoria": "Pastas"
+ },
+ {
+  "Producto": "Espagueti nº 5 Barilla caja 500 g",
+  "Precio": "1,79 €",
+  "Marca": "Barilla",
+  "Categoria": "Pastas"
+ },
+ {
+  "Producto": "Pasta de tiburones Al diante bolsa 500 g",
+  "Precio": "0,82 €",
+  "Marca": "Al",
+  "Categoria": "Pastas"
+ },
+ {
+  "Producto": "Tallarines Al diante bolsa 500 g",
+  "Precio": "0,82 €",
+  "Marca": "Al",
+  "Categoria": "Pastas"
+ },
+ {
+  "Producto": "Aceite de oliva virgen extra La Almazara del Olivar garrafa 3 l",
+  "Precio": "29,55 €",
+  "Marca": "La Almazara",
+  "Categoria": "Aceite"
+ },
+ {
+  "Producto": "Aceite de oliva suave La Almazara del Olivar garrafa 5 l",
+  "Precio": "46,00 €",
+  "Marca": "La Almazara",
+  "Categoria": "Aceite"
+ },
+ {
+  "Producto": "Aceite de oliva intenso La Almazara del Olivar garrafa 5 l",
+  "Precio": "46,00 €",
+  "Marca": "La Almazara",
+  "Categoria": "Aceite"
+ },
+ {
+  "Producto": "Aceite de oliva suave La Almazara del Olivar botella 1 l",
+  "Precio": "9,25 €",
+  "Marca": "La Almazara",
+  "Categoria": "Aceite"
+ },
+ {
+  "Producto": "Aceite refinado de girasol Diasol botella 1 l",
+  "Precio": "1,55 €",
+  "Marca": "Diasol",
+  "Categoria": "Aceite"
+ },
+ {
+  "Producto": "Aceite de orujo de oliva La Almazara del Olivar botella 1 l",
+  "Precio": "5,19 €",
+  "Marca": "La Almazara",
+  "Categoria": "Aceite"
+ },
+ {
+  "Producto": "Aceite de oliva virgen La Almazara del Olivar botella 1 l",
+  "Precio": "9,55 €",
+  "Marca": "La Almazara",
+  "Categoria": "Aceite"
+ },
+ {
+  "Producto": "Aceite de oliva suave Carbonell botella 1 l",
+  "Precio": "8,03 €",
+  "Marca": "Carbonell",
+  "Categoria": "Aceite"
+ },
+ {
+  "Producto": "Aceite de oliva suave La española botella 1 l",
+  "Precio": "11,50 €",
+  "Marca": "La española",
+  "Categoria": "Aceite"
+ },
+ {
+  "Producto": "Tomate frito Vegecampo brik 3 x 390 g",
+  "Precio": "1,65 €",
+  "Marca": "Vegecampo",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Tomate frito Vegecampo brik 3 x 215 g",
+  "Precio": "1,25 €",
+  "Marca": "Vegecampo",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Tomate triturado Vegecampo lata 780 g",
+  "Precio": "1,05 €",
+  "Marca": "Vegecampo",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Tomate frito Vegecampo frasco 550 g",
+  "Precio": "1,15 €",
+  "Marca": "Vegecampo",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Tomate frito casero Vegecampo frasco 350 g",
+  "Precio": "1,59 €",
+  "Marca": "Vegecampo",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Tomate triturado Vegecampo lata 390 g",
+  "Precio": "0,73 €",
+  "Marca": "Vegecampo",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Tomate frito casero con aceite de oliva Hida lata 340 g",
+  "Precio": "1,54 €",
+  "Marca": "Hida",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Tomate frito Solís brik 350 g",
+  "Precio": "0,99 €",
+  "Marca": "Solís",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Sofrito tomate y cebolla Gallina Blanca frasco 350 g",
+  "Precio": "2,39 €",
+  "Marca": "Gallina Blanca",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Pila alcalina aa Varta blister 4 unidades",
+  "Precio": "3,39 €",
+  "Marca": "Varta",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Cerillas Flam'up caja 3 unidades",
+  "Precio": "0,99 €",
+  "Marca": "Flam'up",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Pila alcalina aaa Varta blister 4 unidades",
+  "Precio": "3,39 €",
+  "Marca": "Varta",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Cañitas de papel de 4 colores Betik bolsa 48 unidades",
+  "Precio": "1,39 €",
+  "Marca": "Betik",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Pila alcalina aa Cegasa blister 4 unidades",
+  "Precio": "3,69 €",
+  "Marca": "Cegasa",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Pastillas de encendido Uni fuego caja 36 unidades",
+  "Precio": "1,65 €",
+  "Marca": "Uni",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Pila alcalina aaa Cegasa blister 4 unidades",
+  "Precio": "3,69 €",
+  "Marca": "Cegasa",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Filtro 1x4 para café Melitta caja 40 unidades",
+  "Precio": "2,65 €",
+  "Marca": "Melitta",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Pila botón cr2032 Varta blister 2 unidades",
+  "Precio": "3,49 €",
+  "Marca": "Varta",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Desodorante roll-on dermo algodón Imaqe bote 50 ml",
+  "Precio": "0,85 €",
+  "Marca": "Imaqe",
+  "Categoria": "Desodorante"
+ },
+ {
+  "Producto": "Desodorante roll-on invisible & antimanchas Imaqe bote 50 ml",
+  "Precio": "0,85 €",
+  "Marca": "Imaqe",
+  "Categoria": "Desodorante"
+ },
+ {
+  "Producto": "Desodorante roll-on dermo extra control Sanex bote 50 ml",
+  "Precio": "2,19 €",
+  "Marca": "Sanex",
+  "Categoria": "Desodorante"
+ },
+ {
+  "Producto": "Desodorante dark temptation duplo Axe spray 300 ml",
+  "Precio": "7,29 €",
+  "Marca": "Axe",
+  "Categoria": "Desodorante"
+ },
+ {
+  "Producto": "Desodorante roll-on con extracto de rosa mosqueta Imaqe bote 50 ml",
+  "Precio": "0,85 €",
+  "Marca": "Imaqe",
+  "Categoria": "Desodorante"
+ },
+ {
+  "Producto": "Desodorante con extracto de rosa mosqueta Imaqe spray 200 ml",
+  "Precio": "1,95 €",
+  "Marca": "Imaqe",
+  "Categoria": "Desodorante"
+ },
+ {
+  "Producto": "Desodorante dark temptation man Imaqe spray 150 ml",
+  "Precio": "1,89 €",
+  "Marca": "Imaqe",
+  "Categoria": "Desodorante"
+ },
+ {
+  "Producto": "Desodorante roll-on dermo extra control duplo Sanex bote 100 ml",
+  "Precio": "3,55 €",
+  "Marca": "Sanex",
+  "Categoria": "Desodorante"
+ },
+ {
+  "Producto": "Pasta dentífrica original Colgate Total tubo 75 ml",
+  "Precio": "2,45 €",
+  "Marca": "Colgate",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Pasta dentífrica con flúor Colgate tubo 75 ml",
+  "Precio": "1,99 €",
+  "Marca": "Colgate",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Enjuague bucal cuidado total Listerine botella 1 l",
+  "Precio": "10,29 €",
+  "Marca": "Listerine",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Pasta dentífrica Sensodyne tubo 75 ml",
+  "Precio": "4,49 €",
+  "Marca": "Sensodyne",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Enjuague bucal protección dientes y encías Imaqe botella 500 ml",
+  "Precio": "1,35 €",
+  "Marca": "Imaqe",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Pasta dentífrica protección total Imaqe tubo 75 ml",
+  "Precio": "1,35 €",
+  "Marca": "Imaqe",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Pasta dentífrica flúor y calcio máxima protección Colgate tubo 75 ml",
+  "Precio": "1,99 €",
+  "Marca": "Colgate",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Cepillo dental Colgate blister 4 unidades",
+  "Precio": "2,99 €",
+  "Marca": "Colgate",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Enjuague bucal zero alcohol Imaqe bote 500 ml",
+  "Precio": "1,35 €",
+  "Marca": "Imaqe",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Champú familiar botella 1 l",
+  "Precio": "1,05 €",
+  "Marca": "Otros",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Champú profesional con keratina Imaqe botella 750 ml",
+  "Precio": "1,99 €",
+  "Marca": "Imaqe",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Champú anticaspa dos en uno clásico H&s botella 230 ml",
+  "Precio": "2,99 €",
+  "Marca": "H&s",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Champú hidratación intensa Tresemmé botella 900 ml",
+  "Precio": "6,49 €",
+  "Marca": "Tresemmé",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Champú anticaspa classic H&s botella 600 ml",
+  "Precio": "7,69 €",
+  "Marca": "H&s",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Champú anticaspa citrus fresh cabello graso H&s botella 230 ml",
+  "Precio": "2,99 €",
+  "Marca": "H&s",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Champú profesional hidratante Imaqe botella 750 ml",
+  "Precio": "1,99 €",
+  "Marca": "Imaqe",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Champú fortificante fuerza y brillo cabello normal Fructis botella 300 ml",
+  "Precio": "3,29 €",
+  "Marca": "Fructis",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Champú purificante Pantene botella 225 ml",
+  "Precio": "2,99 €",
+  "Marca": "Pantene",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Mayonesa Salseo frasco 450 ml",
+  "Precio": "1,35 €",
+  "Marca": "Salseo",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Mayonesa Salseo bote 500 ml",
+  "Precio": "1,89 €",
+  "Marca": "Salseo",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Gran mayonesa Hellmanns frasco 450 ml",
+  "Precio": "3,25 €",
+  "Marca": "Hellmanns",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Mayonesa Ybarra frasco 400 ml",
+  "Precio": "2,19 €",
+  "Marca": "Ybarra",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Salsa bechamel Al diante brik 500 ml",
+  "Precio": "1,75 €",
+  "Marca": "Al",
+  "Categoria": "Salsas"
+ },
+ {
+  "Producto": "Mayonesa Hellmanns bote 430 ml",
+  "Precio": "3,25 €",
+  "Marca": "Hellmanns",
+  "Categoria": "salsas"
+ },
+ {
+  "Producto": "Mayonesa casera Calvé frasco 430 ml",
+  "Precio": "2,65 €",
+  "Marca": "Calvé",
+  "Categoria": "salsas"
+ },
+ {
+  "Producto": "Salsa fina original Ligeresa frasco 425 ml",
+  "Precio": "2,65 €",
+  "Marca": "Ligeresa",
+  "Categoria": "salsas"
+ },
+ {
+  "Producto": "Salsa boloñesa Al diante frasco 300 g",
+  "Precio": "1,65 €",
+  "Marca": "Al",
+  "Categoria": "salsas"
+ },
+ {
+  "Producto": "Bicarbonato sódico Carmencita bolsa 1 Kg",
+  "Precio": "3,92 €",
+  "Marca": "Carmencita",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Ajo en polvo Vegecampo frasco 85 g",
+  "Precio": "0,85 €",
+  "Marca": "Vegecampo",
+  "Categoria": "Condimentos"
+ },
+ {
+  "Producto": "Sal marina yodada Dia bolsa 1 Kg",
+  "Precio": "0,35 €",
+  "Marca": "Dia",
+  "Categoria": "Condimentos"
+ },
+ {
+  "Producto": "Sal marina de mesa fina Dia bolsa 1 Kg",
+  "Precio": "0,35 €",
+  "Marca": "Dia",
+  "Categoria": "Condimentos"
+ },
+ {
+  "Producto": "Orégano Vegecampo frasco 15 g",
+  "Precio": "0,65 €",
+  "Marca": "Vegecampo",
+  "Categoria": "Condimentos"
+ },
+ {
+  "Producto": "Orégano en hoja Dani frasco 60 g",
+  "Precio": "2,49 €",
+  "Marca": "Dani",
+  "Categoria": "Condimentos"
+ },
+ {
+  "Producto": "Hojas de laurel Dani bolsa 10 g",
+  "Precio": "0,89 €",
+  "Marca": "Dani",
+  "Categoria": "Condimentos"
+ },
+ {
+  "Producto": "Perejil Vegecampo frasco 13 g",
+  "Precio": "0,65 €",
+  "Marca": "Vegecampo",
+  "Categoria": "Condimentos"
+ },
+ {
+  "Producto": "Cebolla en polvo Vegecampo frasco 60 g",
+  "Precio": "0,95 €",
+  "Marca": "Vegecampo",
+  "Categoria": "Condimentos"
+ },
+ {
+  "Producto": "Papel higiénico La llama bolsa 12 unidades",
+  "Precio": "2,65 €",
+  "Marca": "La llama",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Papel higiénico compacto doble rollo La llama bolsa 6 unidades",
+  "Precio": "2,65 €",
+  "Marca": "La llama",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Papel multiusos absorción 375 servicios La llama bolsa 1 unidad",
+  "Precio": "2,99 €",
+  "Marca": "La llama",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Papel higiénico compacto doble rollo La llama bolsa 12 unidades",
+  "Precio": "4,79 €",
+  "Marca": "La llama",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Papel de cocina compacto doble rollo La llama bolsa 3 unidades",
+  "Precio": "2,35 €",
+  "Marca": "La llama",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Servilletas blancas 1 capa La llama bolsa 200 unidades",
+  "Precio": "1,35 €",
+  "Marca": "La llama",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Pañuelos pocket blancos La llama paquete 10 unidades",
+  "Precio": "1,39 €",
+  "Marca": "La llama",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Papel higiénico suave 2 capas Amoos bolsa 12 unidades",
+  "Precio": "2,29 €",
+  "Marca": "Amoos",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Pañuelos faciales La llama caja 150 unidades",
+  "Precio": "1,49 €",
+  "Marca": "La llama",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Gel limpiador wc lejía perfumada Super Paco botella 1 l",
+  "Precio": "1,00 €",
+  "Marca": "Super Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Gel limpiador wc azul marino Super Paco botella 1 l",
+  "Precio": "1,15 €",
+  "Marca": "Super Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Gel limpiador wc pino Super Paco botella 1 l",
+  "Precio": "1,15 €",
+  "Marca": "Super Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Colgador para wc floral Super Paco blister 2 unidades",
+  "Precio": "1,69 €",
+  "Marca": "Super Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Limpiador de baño acción total Super Paco spray 750 ml",
+  "Precio": "1,79 €",
+  "Marca": "Super Paco",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Gel desatascador para tuberías Super Paco botella 1 l",
+  "Precio": "1,99 €",
+  "Marca": "Super Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Colgador para wc agua azul Super Paco blister 2 unidades",
+  "Precio": "1,69 €",
+  "Marca": "Super Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Colgador para wc limón Super Paco blister 2 unidades",
+  "Precio": "1,69 €",
+  "Marca": "Super Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Colgador para wc pino Super Paco blister 2 unidades",
+  "Precio": "1,69 €",
+  "Marca": "Super Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Vinagre de limpieza Riojavina botella 1 l",
+  "Precio": "1,15 €",
+  "Marca": "Riojavina",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Limpiador desinfectante multiusos Sanytol spray 750 ml",
+  "Precio": "2,99 €",
+  "Marca": "Sanytol",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Limpiador oxígeno activo Super Paco botella 1 l",
+  "Precio": "1,45 €",
+  "Marca": "Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Limpiador multiusos Super Paco spray 1 l",
+  "Precio": "1,30 €",
+  "Marca": "Super Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Limpiador gel baño Super Paco botella 1.5 l",
+  "Precio": "1,55 €",
+  "Marca": "Paco",
+  "Categoria": "Baño"
+ },
+ {
+  "Producto": "Toallitas limpiadoras multiusos Super Paco bolsa 80 unidades",
+  "Precio": "1,99 €",
+  "Marca": "Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Limpiahogar ph neutro Super Paco botella 1.5 l",
+  "Precio": "1,55 €",
+  "Marca": "Paco",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Limpiamuebles cuidado experto madera classic Pronto spray 250 ml",
+  "Precio": "2,99 €",
+  "Marca": "Pronto",
+  "Categoria": "Hogar"
+ },
+ {
+  "Producto": "Limpiamuebles Hechicera spray 400 ml",
+  "Precio": "3,19 €",
+  "Marca": "Hechicera",
+  "Categoria": "Hogar"
+ }
+],
+"Hoja1":[]
+}
